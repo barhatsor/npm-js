@@ -32,3 +32,5 @@ async function getPackage(package, version) {
   
 }
 
+const cors = 'https://scepter-cors2.herokuapp.com/';
+
